@@ -23,6 +23,7 @@ Bem-vindo ao meu Dashboard de Vendas, uma iniciativa para aprimorar minhas habil
 ## Acesse meu Dashboard no Figma
 [![Dashboard Figma](https://img.shields.io/badge/Dashboard%20no%20Figma-Ver%20Protótipo-brightgreen)](https://www.figma.com/community/file/1281973192512762996/dashboard-da-tim)
 
+## Capturas de Tela
 <p align="center">
   <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS/blob/main/Vers%C3%A3o%203%20-%20Tim.png" width=60%>
 </p>
@@ -31,5 +32,5 @@ Bem-vindo ao meu Dashboard de Vendas, uma iniciativa para aprimorar minhas habil
 Estou aberto a feedback construtivo! Sinta-se à vontade para me fornecer suas impressões, sugestões ou observações. Vamos crescer juntos!
 
 ## Contato
-- **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/seu-usuario/)
-- **GitHub:** [Meu Repositório](https://github.com/seu-usuario)
+* [LinkedIn](www.linkedin.com/in/eduardo-pedrosap)
+* [GitHub](https://github.com/Eduardoppereira)
