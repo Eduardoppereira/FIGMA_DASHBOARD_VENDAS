@@ -20,6 +20,11 @@ Bem-vindo ao meu Dashboard de Vendas, uma iniciativa para aprimorar minhas habil
 ### Tabela Detalhada
 - **Tabela - Margem de Custos Variáveis:** Analise detalhadamente a margem de custos variáveis em uma tabela interativa.
 
+## Tecnologias Utilizadas
+<p align="left">  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma" alt="powerbi" width="120" height="40"/> 
+</p> 
+
 ## Acesse meu Dashboard no Figma
 [![Dashboard Figma](https://img.shields.io/badge/Dashboard%20no%20Figma-Ver%20Protótipo-brightgreen)](https://www.figma.com/community/file/1281973192512762996/dashboard-da-tim)
 
